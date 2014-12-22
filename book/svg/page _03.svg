@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="page _03.svg"
-   inkscape:export-filename="/home/cefleet/GraphicWork/books/DrewTheDad/book/png/page_03.png"
+   inkscape:export-filename="/home/cefleet/GraphicWork/books/drewthedad/book/png/page_03.png"
    inkscape:export-xdpi="257.14285"
    inkscape:export-ydpi="257.14285">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="356.83419"
-     inkscape:cy="296.18293"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="518.43386"
+     inkscape:cy="374.64834"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,6 +58,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-332.35975)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect5009"
+       width="1341.4825"
+       height="1034.3962"
+       x="-141.42134"
+       y="215.95341"
+       ry="0.836613" />
     <text
        xml:space="preserve"
        style="font-size:74px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Baskervald ADF Std;-inkscape-font-specification:Baskervald ADF Std Bold"
